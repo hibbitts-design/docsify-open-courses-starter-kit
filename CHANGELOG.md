@@ -25,6 +25,9 @@
 * Previous/Next no longer briefly shows the new page partway down before it scrolls to the top
 * Updated ReadMe with how to use simple text cards for the Courses page
 
+**Bugfix:**
+* Cards in a list are the same height in each row, even when one has fewer parts (such as no subtitle)
+
 ## [v1.0.1](https://github.com/hibbitts-design/docsify-open-courses-starter-kit/releases/tag/v1.0.1)
 ### 11/17/2026
 
